@@ -1,31 +1,31 @@
-
-        .haa{
-            width: 80%;
-            margin-left: auto;
-            margin-right: auto;
-            background-color: rgba(243, 137, 137, 0.267);
-        }
-        header{
-            text-align: center;
-            background-color: #864;
-        }
-        footer{
-            text-align: center;
-            background-color: #843538;
-        }
-        main{background-color: #8436;
-            font-family: Arial, Helvetica, sans-serif;
-            margin-left: 160px;
-            padding: 5px;
-
-        }
-        nav{
-            float: left;
-            width: 150px;
-            padding: 10px;
-            font-size: large;
-            color: whitesmoke;
-        }
+    form{
+        max-width: 500px;
+        margin-left: 30px;
+        margin-right: 40px;
+    }    
+    nav{
+                a{text-decoration: none;}
         ul{list-style-type: none;}
-        a{text-decoration: none;}
-        
+
+    }           
+    fieldset{
+        padding-left: auto;
+        margin-right: 30px;
+        margin-left: 30px;
+        margin-top: 40px;
+    }
+    button{
+        background-color: rgb(17, 243, 167);
+        padding: 10px 15px;
+        text-align: center;
+        border-radius: 3px;
+    }
+    input{
+        padding: 10px;
+        border-radius: 3px;
+        margin-top :4px;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: #f49e9e;
+    }
