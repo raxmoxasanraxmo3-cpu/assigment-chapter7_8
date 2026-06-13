@@ -1,0 +1,31 @@
+
+        .haa{
+            width: 80%;
+            margin-left: auto;
+            margin-right: auto;
+            background-color: rgba(243, 137, 137, 0.267);
+        }
+        header{
+            text-align: center;
+            background-color: #864;
+        }
+        footer{
+            text-align: center;
+            background-color: #843538;
+        }
+        main{background-color: #8436;
+            font-family: Arial, Helvetica, sans-serif;
+            margin-left: 160px;
+            padding: 5px;
+
+        }
+        nav{
+            float: left;
+            width: 150px;
+            padding: 10px;
+            font-size: large;
+            color: whitesmoke;
+        }
+        ul{list-style-type: none;}
+        a{text-decoration: none;}
+        

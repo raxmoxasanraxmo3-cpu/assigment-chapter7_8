@@ -1,0 +1,23 @@
+.p1{
+    float: left;
+}
+.p2{
+    float: right;
+}
+.p3{
+    float: left;
+}
+.p1,.p2,.p3,h2{
+    background-color: #7537;
+    clear: both;
+    padding: 20px;
+    margin: 20px;
+overflow: scroll;    
+}
+nav{
+    ul{list-style-type: none;}
+    a{text-decoration: none;}
+}
+body{
+    background-color: rgba(236, 114, 179, 0.467);
+}
